@@ -1,0 +1,177 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/B8UFliXDUj2qI_zYg9SzkSOZsG0\"",
+ "nextPageToken": "CAUQAA",
+ "regionCode": "UA",
+ "pageInfo": {
+  "totalResults": 450,
+  "resultsPerPage": 5
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/Ft3akXozEXlTpOE2lOpq6Qgy1jQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "lt-L2r-uhps"
+   },
+   "snippet": {
+    "publishedAt": "2015-06-19T16:08:52.000Z",
+    "channelId": "UCT8ny3aoHGFPILpCsFuEq9A",
+    "title": "Как сэкономить при покупке iPhone. Гаджетариум № 80",
+    "description": "Внимание! Конкурс завершился! Результаты https://www.youtube.com/watch?v=Hrs2ImZk_ow Смотрите как сэкономить при покупке iPhone....",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lt-L2r-uhps/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lt-L2r-uhps/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lt-L2r-uhps/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Citrus.ua — гаджеты и аксессуары",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/M0KMv3s6IrilAyxHsCfRdfJVRUw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Ijukzvire2w"
+   },
+   "snippet": {
+    "publishedAt": "2015-12-22T12:18:53.000Z",
+    "channelId": "UCT8ny3aoHGFPILpCsFuEq9A",
+    "title": "Персональный транспорт: Моноколесо",
+    "description": "Персональный транспорт: Моноколесо Подробнее о моноколесах здесь: http://www.citrus.ua/shop/goods/gadget/1997/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ijukzvire2w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ijukzvire2w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ijukzvire2w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Citrus.ua — гаджеты и аксессуары",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/7FvTwG_qz1IyvL1vGppYQqBwMtA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Qs0dZfOMvss"
+   },
+   "snippet": {
+    "publishedAt": "2015-05-06T07:14:54.000Z",
+    "channelId": "UCT8ny3aoHGFPILpCsFuEq9A",
+    "title": "Обзор Dalie 3D Pen. Гаджетариум, выпуск 76",
+    "description": "Обзор Dalie 3D Pen. Гаджетариум, выпуск 76 Детальная информация » http://www.citrus.ua/shop/goods/gadget/1830/ Подписывайся! VK - http://vk.c...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Qs0dZfOMvss/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Qs0dZfOMvss/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Qs0dZfOMvss/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Citrus.ua — гаджеты и аксессуары",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/r1q99PZXUNMGqQhWpWICg2HeMKQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "lIIRUSv0Et4"
+   },
+   "snippet": {
+    "publishedAt": "2015-07-14T09:35:20.000Z",
+    "channelId": "UCT8ny3aoHGFPILpCsFuEq9A",
+    "title": "Обзор Meizu M2 Note  Гаджетариум, выпуск 84",
+    "description": "Обзор Meizu M2 Note Гаджетариум, выпуск 84 https://www.youtube.com/watch?v=lIIRUSv0Et4 Детальная информация о Meizu M2 Note: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lIIRUSv0Et4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lIIRUSv0Et4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lIIRUSv0Et4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Citrus.ua — гаджеты и аксессуары",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/DR86nqWh2ZA5_GUJ5HF9QyLsd18\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "PuU0dPmyYr0"
+   },
+   "snippet": {
+    "publishedAt": "2015-04-28T11:17:35.000Z",
+    "channelId": "UCT8ny3aoHGFPILpCsFuEq9A",
+    "title": "Обзор смарт лампочек PlayBulb. Гаджетариум, выпуск 73",
+    "description": "Обзор смарт лампочек PlayBulb. Гаджетариум, выпуск 73 Детальная информация » http://www.citrus.ua/search/?q=mipow Подписывайся!...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PuU0dPmyYr0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PuU0dPmyYr0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PuU0dPmyYr0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Citrus.ua — гаджеты и аксессуары",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
